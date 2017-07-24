@@ -47,6 +47,7 @@
             </div>
 
             <div class="row">
+                <div class=" col-xs-offset-1  col-md-offset-0 col-xs-12 col-lg-6">
                    <img src="map2.gif" usemap="#image-map" id="map" > 
 
                         <map name="image-map">
@@ -93,6 +94,8 @@
 
                 </div>  
                 
+                    <div class=" col-xs-offset-1 col-xs-10 col-lg-offset-0 col-lg-push-1 col-lg-5" >
+                        <div id="data" style="border: 1px solid; margin-top:30px;">
                             <center> <h3>   NRC details : </h3> </center>
 
                             <p id="para" style="padding-left:5px;">
